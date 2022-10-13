@@ -1,10 +1,12 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-✨ My name is Xena.✨
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently studying at the American University Of Sharjah.
-- 🌱 I’m currently majoring in computer science and studying databases, software engineering, desgin analysis of algorithms and entrepreneurship mindset.
-- 👣 I have done couple of Web Development courses online on udemy and edx. 
-- 📱 I have experience developing android apps.
+- 🖥 Majoring in computer science.
+- 🔭 I’m currently !enjoying my 2nd gap year but trying to make the best of it.
+- 📱 I like to beilve I enjoy mobile app development and islamic philosophy.
+- 👣 I am >25% on my way to becoming a certified project maneger by google.
+- ❤️ I love matt from wii sports.
+
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zeinaabusharkh&theme=buefy&show_icons=true&count_private=true)
