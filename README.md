@@ -1,5 +1,3 @@
-## I'm Xena <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 ## About Me
 
 I am a passionate Software Engineer and Product Manager who loves to code, innovate, and solve complex problems. My journey in tech is driven by a constant quest for knowledge and a desire to create digital experiences that inspire and empower users. With a strong background in full-stack development, mobile and web technologies, and UX/UI design, I bring ideas to life through clean, efficient, and scalable code.
